@@ -6,7 +6,7 @@
 ### Gradle
 
 ```groovy
-implementation 'clearbit_dev.Person:Person:1.0.0'
+implementation 'clearbit_dev.Person:Person:0.1.0'
 ```
 <!-- End SDK Installation -->
 

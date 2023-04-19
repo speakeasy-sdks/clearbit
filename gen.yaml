@@ -2,8 +2,8 @@ configVersion: 1.0.0
 management:
   docChecksum: 55b1a261a91ceb9003fe4a83e551e358
   docVersion: "2.0"
-  speakeasyVersion: 1.20.1
-  generationVersion: 2.18.1
+  speakeasyVersion: 1.20.2
+  generationVersion: 2.18.2
 generation:
   telemetryEnabled: false
   sdkClassName: SDK
@@ -12,7 +12,7 @@ go:
   version: ""
   packageName: Person
 java:
-  version: 0.1.0
+  version: 0.1.1
   artifactID: Person
   companyEmail: info@mycompany.com
   companyName: My Company

@@ -21,3 +21,11 @@ Based on:
 Based on:
 - OpenAPI Doc 2.0 https://prod.speakeasyapi.dev/v1/apis/Person/version/v2.0.0/schema/download
 - Speakeasy CLI 1.20.1 (2.18.1) https://github.com/speakeasy-api/speakeasy
+
+## 2023-04-19 00:33:22
+### Changes
+Based on:
+- OpenAPI Doc 2.0 https://prod.speakeasyapi.dev/v1/apis/Person/version/v2.0.0/schema/download
+- Speakeasy CLI 1.20.2 (2.18.2) https://github.com/speakeasy-api/speakeasy
+### Releases
+- [Go v0.0.1] https://github.com/speakeasy-sdks/clearbit/releases/tag/go-client-sdk/v0.0.1 - go-client-sdk
